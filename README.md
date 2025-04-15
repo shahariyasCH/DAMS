@@ -4,30 +4,30 @@ A real-time Disaster Alert & Management System (DAMS) built using Flutter and Fi
 
 Key Features
 
-- 📱 User Mobile App (Flutter)
+-  User Mobile App (Flutter)
   - Send real-time emergency alerts with a single tap
   - Automatically share GPS location using Google Maps API
   - View acknowledgment or instructions from control center
 
-- 🖥️ Admin Web Control Panel
+-  Admin Web Control Panel
   - Monitor incoming alerts on a live map
   - Filter and prioritize incidents by severity/location
   - Respond to users and mark emergencies as resolved
 
-- 🗺️ Geolocation & Mapping
+-  Geolocation & Mapping
   - Integrated Google Maps API for live location tracking
   - Visualize alerts geographically for better decision-making
 
-🛠️ Tech Stack
+ Tech Stack
 
 - Mobile App: Flutter (Dart)
 - Backend/Database: Firebase (Authentication + Firestore + Cloud Messaging)
 - Maps: Google Maps API
 - Web Dashboard: Flutter Web / Firebase Hosting (or other stack as applicable)
 
-📦 Installation
+ Installation
 
-🔧 For Mobile App
+ For Mobile App
 
 ```bash
 # Clone the repo
